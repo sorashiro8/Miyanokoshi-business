@@ -1,0 +1,25 @@
+/* styles.css */
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+.header-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.header-content i {
+    font-size: 24px;
+    color: #333;
+}
+
+header h1 {
+    font-size: 36px;
+    margin: 0;
+    color: #333;
+}
